@@ -1,4 +1,4 @@
-# rcg-unitegallery
+# rc-gallery-unitegallery
 
 Plugin rc-gallery for Unitegallery.
 
@@ -9,7 +9,7 @@ Basic usage
 Install bower package:
 
 ```bash
-bower install --save rcg-unitegallery
+bower install --save rc-gallery-unitegallery
 ```
 
 
