@@ -1,0 +1,32 @@
+{
+  "name": "rcg-unitegallery",
+  "version": "1.0.0",
+  "homepage": "https://redcastor.io",
+  "authors": [
+    "Auban le Grelle"
+  ],
+  "description": "rc-gallery plugin for Unite Gallery",
+  "keywords": [
+    "angular",
+    "redcastor",
+    "angularjs",
+    "directive",
+    "rc-gallery",
+    "unitegallery",
+    "gallery"
+  ],
+  "main": [
+    "dist/rcg-unitegallery.js"
+  ],
+  "ignore": [
+    "**/.*",
+    "**/*.txt",
+    ".jscsrc",
+    ".jshintrc",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+	"rc-gallery": "1.0.0"
+  }
+}
